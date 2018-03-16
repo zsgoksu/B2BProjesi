@@ -4,7 +4,7 @@
 Kullanılan Teknolojiler : Java Swing,Mysql,JDBC
 </p>
 
-# Proje Görselleri
+# Proje Gorselleri
 <a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/1.png" target="_blank">
 <img src="http://zekisafagoksu.com/wp-content/uploads/2018/03/1.png" width="200" style="max-width:100%;"></a>
 
