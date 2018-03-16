@@ -1,5 +1,8 @@
 # B2B Projesi
-<p>....</p>
+<p>Bir kullanıcı bayileri ve tedarikçileri kayıt altında tutar. Stok kontrolünü kategori,birim ve marka gibi özelliklerle sınıflandırabilir. Birden fazla gider grupları oluşturarak anlaşılır bir kasa raporu tutabilir. Belli müşteri yada ürün gruplarına kampanyalar düzenleyerek toplu bir şekilde fiyat revizyonu yapabilir. Detaylı kasa banka raporlarını inceleyebilir ve yapılan satış  ve ödemeler için gelir giderlere bir hesap tercihi yapabilir. Personel profilleri oluşturarak personel bilgilerini kayıt altına alır. Programa erişim için kullanıcı profili oluşturma ve bu kullanıcıların erişimlerini kısıtlayabilme olanağı sağlar. Program alış, satış ve tarih aralıklarına göre detaylı bir arama sunar. Stok performansı gözlemlenebilir.
+  
+# Kullanılan Teknolojiler : Java Swing,Mysql,JDBC
+</p>
 
 # Proje Görselleri
 <a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/1.png" target="_blank">
