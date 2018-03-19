@@ -5,36 +5,38 @@ Kullanılan Teknolojiler : Java Swing,Mysql,JDBC
 </p>
 
 # Proje Gorselleri
-<a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/1.png" target="_blank">
-<img src="http://zekisafagoksu.com/wp-content/uploads/2018/03/1.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim2.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim2.png" width="275" style="max-width:100%;"></a>
 
-<a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/2.png" target="_blank">
-<img src="http://zekisafagoksu.com/wp-content/uploads/2018/03/2.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim3.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim3.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim4.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim4.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim5.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim5.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim6.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim6.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim10.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim10.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim11.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim11.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim12.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim12.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim13.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim13.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim14.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim14.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim15.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim15.png" width="275" style="max-width:100%;"></a>
 
-<a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/3.png" target="_blank">
-<img src="http://zekisafagoksu.com/wp-content/uploads/2018/03/3.png" width="275" style="max-width:100%;"></a>
-
-<a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/4.png" target="_blank">
-<img src="http://zekisafagoksu.com/wp-content/uploads/2018/03/4.png" width="275" style="max-width:100%;"></a>
-
-<a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/5.png" target="_blank">
-<img src="http://zekisafagoksu.com/wp-content/uploads/2018/03/5.png" width="275" style="max-width:100%;"></a>
-
-<a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/6.png" target="_blank">
-<img src="http://zekisafagoksu.com/wp-content/uploads/2018/03/6.png" width="275" style="max-width:100%;"></a>
-
-<a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/7.png" target="_blank">
-<img src="http://zekisafagoksu.com/wp-content/uploads/2018/03/7.png" width="275" style="max-width:100%;"></a>
-
-<a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/8.png" target="_blank">
-<img src="http://zekisafagoksu.com/wp-content/uploads/2018/03/8.png" width="275" style="max-width:100%;"></a>
-
-<a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/9.png" target="_blank">
-<img src="http://zekisafagoksu.com/wp-content/uploads/2018/03/9.png" width="275" style="max-width:100%;"></a>
-
-<a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/10.png" target="_blank">
-<img src="http://zekisafagoksu.com/wp-content/uploads/2018/03/10.png" width="275" style="max-width:100%;"></a>
-
-<a href="http://zekisafagoksu.com/wp-content/uploads/2018/03/11.png" target="_blank">
-<img src="http://zekisafagoksu.com/wp-content/uploads/2018/03/11.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/anime0.gif" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/anime0.gif" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/anime2.gif" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/anime2.gif" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/anime3.gif" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/anime3.gif" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/anime4.gif" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/anime4.gif" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/anime5.gif" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/anime5.gif" width="275" style="max-width:100%;"></a>
 
