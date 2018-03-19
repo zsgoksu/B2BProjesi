@@ -16,18 +16,18 @@ Kullanılan Teknolojiler : Java Swing,Mysql,JDBC
 <img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim5.png" width="275" style="max-width:100%;"></a>
 <a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim6.png" target="_blank">
 <img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim6.png" width="275" style="max-width:100%;"></a>
-<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim10.png" target="_blank">
-<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim10.png" width="275" style="max-width:100%;"></a>
-<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim11.png" target="_blank">
-<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim11.png" width="275" style="max-width:100%;"></a>
-<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim12.png" target="_blank">
-<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim12.png" width="275" style="max-width:100%;"></a>
-<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim13.png" target="_blank">
-<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim13.png" width="275" style="max-width:100%;"></a>
-<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim14.png" target="_blank">
-<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim14.png" width="275" style="max-width:100%;"></a>
-<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim15.png" target="_blank">
-<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/Resim15.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/resim10.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/resim10.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/resim11.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/resim11.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/resim12.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/resim12.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/resim13.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/resim13.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/resim14.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/resim14.png" width="275" style="max-width:100%;"></a>
+<a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/resim15.png" target="_blank">
+<img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/resim15.png" width="275" style="max-width:100%;"></a>
 
 <a href="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/anime0.gif" target="_blank">
 <img src="https://github.com/zsgoksu/B2BProjesi/blob/master/Ekran-G%C3%B6r%C3%BCnt%C3%BCleri/anime0.gif" width="275" style="max-width:100%;"></a>
